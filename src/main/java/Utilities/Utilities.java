@@ -1,4 +1,4 @@
-package Utilities; //acum scriu niste aberatii hahaha
+package Utilities; //
 
 public class Utilities {
 }
