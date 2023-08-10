@@ -23,6 +23,8 @@ public class Locatori {
                 return By.id("actions");
             case "Mouse hover":
                 return By.id("mouse-hover");
+            case "Hover over me":
+                return By.id("button-hover-over");
 
             default:
                 throw new IllegalArgumentException("This button does not exist");
